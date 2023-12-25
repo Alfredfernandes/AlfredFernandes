@@ -6,4 +6,4 @@ Good to see you here! 👋
 - 📫 How to reach me: alfredfernandes0410@gmail.com
 - 😄 Pronouns: he/him
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfredfernandes&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfredfernandes&show_icons=true&theme=dark)
